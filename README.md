@@ -5,7 +5,8 @@ Score: 830 out of 600 [230 extra points]
 
 My Teammate: [Mahla Entezari](https://github.com/MahlaEn)
 
-![](src/main/resources/com/example/melodyhub/images/logo.jpg)
+<p align="center">
+  <img src="Images/Logo.png" />
 
 ## Introductions
 This is a C++ program that implements Pac-Man game!
