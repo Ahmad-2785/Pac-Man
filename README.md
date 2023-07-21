@@ -3,6 +3,10 @@ Final Project of Basic Programming Course at Shahid Beheshti University (Winter 
 
 Score: 830 out of 600 [230 extra points]
 
+Course Instructor: [Dr. Kheradpisheh](https://github.com/SRKH)
+
+Team Mentor: [Mobin Nesari](https://github.com/MobinNesari81)
+
 My Teammate: [Mahla Entezari](https://github.com/MahlaEn)
 
 <p align="center">
